@@ -1,0 +1,13 @@
+.div_convert {
+	background-color: lightblue;
+	height: 150;
+	width: 200;
+	margin-left: 60px;
+	padding: 30px 0 0 50px;
+}
+
+input {
+	border-radius: 3px;
+	border-collapse: 5px;
+	border-color: lightblue;
+}
