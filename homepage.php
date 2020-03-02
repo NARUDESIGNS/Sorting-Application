@@ -25,6 +25,7 @@
 					<li><a id="navbar" href="quick sort.php"><i id="font-awesome"> </i>Quick Sort</a></li>
 					<li><a id="navbar" href="selection sort.php"><i id="font-awesome"></i>Selection Sort</a></li>
 			</div>	
+		<!-- welcome -->
 		</nav>
 		<div class="welcome-box">
 				<h1>Welcome</h1><br>
